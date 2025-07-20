@@ -1,5 +1,3 @@
-:
-
 🛒 ShopSmart – MERN Stack Grocery Shopping Platform
 ShopSmart is a full-stack online grocery shopping application built using the MERN stack. It allows customers to explore grocery categories, add products to their cart, and place orders. Vendors (store managers) can manage products and fulfill orders via their dashboards. Admins oversee the platform and can promote vendors to highlight stores on the homepage.
 
